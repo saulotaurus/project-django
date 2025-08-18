@@ -1,0 +1,25 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de dados
+*.sqlite3
+db.sqlite3
+
+# Arquivos de segredos e ambiente
+.env
+*.env
+
+# Arquivos de IDE e editores
+.vscode/
+.idea/
+
+# Arquivos estáticos coletados (opcional, mas recomendado)
+staticfiles/
